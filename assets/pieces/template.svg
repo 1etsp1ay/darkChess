@@ -6,24 +6,45 @@ LICENSE
 Chess pieces
 ~~~~~~~~~~~~
 
-The chess pieces in this sprite are copies from Wikimedia Commons
-https://commons.wikimedia.org/wiki/Category:SVG_chess_pieces/Standard
+- 
 
-License: Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
-https://creativecommons.org/licenses/by-sa/3.0/
+License: ??? https://creativecommons.org/licenses/
 
 Authors:
-- https://en.wikipedia.org/wiki/User:Cburnett
-- https://en.wikipedia.org/wiki/User:Rfc1394
+- 
 
-modified by shaack (https://shaack.com) for the usage in cm-chessboard.
-https://github.com/shaack/cm-chessboard
+modified by 
 
 -->
 <svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg">
-    <title>cm-chessboard pieces and markers sprite</title>
-    <desc>Chess pieces and markers for the cm-chessboard (https://shaack.com/projekte/cm-chessboard/).</desc>
+    <title>pieces and markers sprite</title>
+    <desc>[TBD]</desc>
 
+<!--
+Styling
+-------
+    For each player, we define a common style which can be overriden
+    W -> w? = white (outline)
+    B -> b? = black (solid)
+    Z -> z? = zip (invisible)
+-->
+    <defs>
+        
+    </defs>
+    
+    <g id="zk">
+    </g>
+    <g id="zq">
+    </g>
+    <g id="zb">
+    </g>
+    <g id="zn">
+    </g>
+    <g id="zr">
+    </g>
+    <g id="zp">
+    </g>
+    
     <g id="wk" stroke-linecap="round" stroke-linejoin="round" transform="translate(5.000000, 5.000000)" stroke="#000000"
        stroke-width="1.5">
         <line x1="15" y1="4.96764706" x2="15" y2="0" id="Shape"/>
