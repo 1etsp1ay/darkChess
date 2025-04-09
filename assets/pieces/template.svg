@@ -28,23 +28,6 @@ Styling
     B -> b? = black (solid)
     Z -> z? = zip (invisible)
 -->
-    <defs>
-        
-    </defs>
-    
-    <g id="zk">
-    </g>
-    <g id="zq">
-    </g>
-    <g id="zb">
-    </g>
-    <g id="zn">
-    </g>
-    <g id="zr">
-    </g>
-    <g id="zp">
-    </g>
-    
     <g id="wk" stroke-linecap="round" stroke-linejoin="round" transform="translate(5.000000, 5.000000)" stroke="#000000"
        stroke-width="1.5">
         <line x1="15" y1="4.96764706" x2="15" y2="0" id="Shape"/>
